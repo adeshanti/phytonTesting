@@ -1,7 +1,7 @@
 '''
 Created on Feb 5, 2018
 Login and Logout
-@author: MankAryaSutrisna
+@author: Shanti
 '''
 from selenium import webdriver
 
